@@ -1,0 +1,4 @@
+Number of nodes: 134
+Number of edges: 145
+Diameter of this graph: 6
+Average distance of this graph: 4.720682302771855
