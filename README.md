@@ -16,6 +16,5 @@
 <ol>
 	<li>Requirement. The project should deal with social media data, and it must 'mine' or 'analyze' the social media data to find/discover interesting patterns/knowledge. </li>
 	<li>Term Project Name: Study of COVID-19 and Election</li>
-	<li>This project is under Project directory.
-		See (https://github.com/Leah-Luo/SyracuseUniversity/tree/master/Projects/StudyOfCOVIDAndElection)</li>
+	<li>Project link. See (https://github.com/Leah-Luo/StudyOfCOVIDAndElection)</li>
 </ol>
